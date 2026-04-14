@@ -1,4 +1,8 @@
 # Northwind Customers by City Console App
+![.NET](https://img.shields.io/badge/.NET-6.0-blue)
+![C#](https://img.shields.io/badge/C%23-Programming-green)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![Console App](https://img.shields.io/badge/App-Console-lightgrey)
 
 ## Description
 
